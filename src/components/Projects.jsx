@@ -29,7 +29,7 @@ function Projects() {
               Tech Used: ReactJS, NodeJS, Express, MongoDB, SCSS, Redux
             </li>
           </ul>
-          <p style={{ color: "red" }}>Note: Work in Progress</p>
+          
           <div className="btns">
             <a
               href="https://focused-ramanujan-1df165.netlify.app/"
